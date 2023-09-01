@@ -1,0 +1,1 @@
+"./9910.obj" "./AD9910.obj" "./ADF4351.obj" "./ADS1118.obj" "./DAT_31R5_SP.obj" "./TLV5638.obj" "./main.obj" "./src/setclock.obj" "../lnk_msp430f6638.cmd" -llibmath.a -llibc.a 
